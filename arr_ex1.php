@@ -4,6 +4,7 @@
 sort($color);
  foreach ($color as $color => $name) {
  	echo $name."<br>";
+ 	echo "name";
  }
 
 
